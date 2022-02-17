@@ -2,8 +2,8 @@
 
 *This feature is a **BETA** currently and may change*
 
-Oracle Cloud is a service by Oracle, Inc. which allows you to allocation a virtual
-computer in the cloud.  On their Always-Free tier, you can allocate for free two x86 based
+Oracle Cloud is a service by Oracle, Inc. which allows you to allocate a virtual
+computer in the cloud.  On their Always-Free tier, you can allocate two x86 based
 Virtual computers with 1GB of RAM and a single CPU, plus as many ARM based virtual machines
 as you would like as long as the total of those machines doesn't exceed 24GB of RAM
 and 4 CPUs.  
