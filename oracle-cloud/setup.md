@@ -1,4 +1,6 @@
-# Oracle Cloud with Ubuntu Linux Setup Guide
+# Oracle Cloud with Ubuntu Linux Setup Guide (BETA)
+
+*This feature is a **BETA** currently and made change*
 
 Oracle Cloud is a service by Oracle, Inc. which allows you to allocation a virtual
 computer in the cloud.  On their Always-Free tier, you can allocate for free two x86 based
