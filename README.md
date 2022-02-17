@@ -8,7 +8,7 @@ There are multiple guides depending on operating system:
 - [Windows](windows/setup.md)
 - [macOS](macos/setup.md)
 - [Ubuntu](ubuntu/setup.md)
-- [Oracle Cloud](oracle-cloud/setup.md)
+- [Oracle Cloud with Ubuntu Linux](oracle-cloud/setup.md) *BETA*
 
 ## IMPORTANT! A note about errors
 
