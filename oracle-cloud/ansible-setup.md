@@ -31,17 +31,10 @@ To get started open a terminal connected via SSH to your Oracle Cloud virtual co
 the following command:
 
 ```shell
-curl https://github.com/FullstackAcademy/developer-playbook/blob/main/oracle-cloud.sh | sh
+curl https://raw.githubusercontent.com/FullstackAcademy/developer-playbook/main/oracle-cloud.sh | sh
 ```
 
-Sit back and relax, this could take a while. On some systems it will not print
-anything out until it finishes the setup.
-
-![ansible running](../common/images/ansible-running.png)
-
-![a few moments later](../common/images/a-few-moments-later.png)
-
-![ansible finished](../common/images/ansible-finished.png)
+Sit back and relax, this could take a while.
 
 After this finishes, you should see a message saying the the setup is complete and
 it is rebooting the server. This will disconnect you from the cloud machine.

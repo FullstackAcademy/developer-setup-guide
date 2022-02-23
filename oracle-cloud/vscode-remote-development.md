@@ -65,7 +65,7 @@ The biggest difference between working this way and working on your local comput
 
 Now that we have an Ubuntu server, we can follow the regular Ubuntu setup instructions starting with [Installing Ansible]
 
-[Installing Ansible]:../ubuntu/ansible-setup.md
+[Installing Ansible]:ansible-setup.md
 [Shell Basics]:../common/shell-basics.md
 [Open remote icon]:images/open-remote-folder-icon.png
 [SSH connection command]:images/ssh-connection-command.png
