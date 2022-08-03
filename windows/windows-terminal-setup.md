@@ -41,7 +41,7 @@ But you should see the `~` (tilde) in your prompt showing you are currently in y
 ![Ubuntu-Windows-Terminal](images/Ubuntu-Windows-Terminal.png)
 
 ## Installing a nerd font (Optional)
-
+⚠️⚠️Warning this may cause install breaking issues. Please try this only after following all other steps and understand you may have to do a fresh install of WSL if things go wrong⚠️⚠️
 This is **optional**, but to get the most out of your terminal prompt, you may want to install
 a Nerd font.  These fonts are patched to give extra characters used by the prompt we will
 use in class.
